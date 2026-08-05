@@ -1,16 +1,35 @@
-## Hi there 👋
+<pre>
+ ██████╗ ██╗  ██╗███████╗██╗   ██╗██╗   ██╗ █████╗ ██████╗ 
+██╔═████╗╚██╗██╔╝╚══███╔╝██║   ██║██║   ██║██╔══██╗██╔══██╗
+██║██╔██║ ╚███╔╝   ███╔╝ ██║   ██║██║   ██║███████║██║  ██║
+████╔╝██║ ██╔██╗  ███╔╝  ╚██╗ ██╔╝╚██╗ ██╔╝██╔══██║██║  ██║
+╚██████╔╝██╔╝ ██╗███████╗ ╚████╔╝  ╚████╔╝ ██║  ██║██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═══╝    ╚═══╝  ╚═╝  ╚═╝╚═════╝
 
-<!--
-**0xZIYAD/0xZIYAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                    0xZIYAD
+</pre>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# $ whoami
+
+```bash
+Name       : ZIYAD
+Alias      : 0xZIYAD
+Role       : Computer Science Student
+Focus      : CyberSecurity | Deffensive | Networking
+Learning   : Security +   | CCNA | BTL1 
+Location   : Saudi Arabia
+
+## Focusing On 
+
+Linux
+Networking
+Python
+Bash
+CTFs
+```
+
+Goals
+
+- Become a SOC Analyst
+- Improve My Defensive Security Skills
